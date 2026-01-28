@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing and visualizing H&M's sales performance and customer behavior during the **2020 fiscal year**.  
-
-Using [**H&M Personalized Fashion Recommendations**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) which is a massive dataset of **over 31 million records**, the project transforms raw data into **actionable business insights** through a high-performance **Power BI dashboard**.
+This project focuses on analyzing and visualizing H&M's sales performance and customer behavior during the **2020 fiscal year**. Using [**H&M Personalized Fashion Recommendations**](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) which is a massive dataset of **over 31 million records**, the project transforms raw data into **actionable business insights** through a high-performance **Power BI dashboard**.
 
 The analysis highlights a business model driven by **large-scale operations** with **deep divergence in customer behavior**, particularly across **demographics** and **price sensitivity**.
 
